@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>张明 · 个人简历</title>
+<meta name="description" content="张明个人简历——教育背景、工作经历、项目经验与联系方式">
+<style>
+:root{
+  --primary:#2563eb; --primary-d:#1e4fc0; --ink:#1f2937; --grey:#6b7280;
+  --line:#e5e7eb; --bg:#f5f7fa; --card:#ffffff; --radius:12px;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:"Microsoft YaHei","PingFang SC","Helvetica Neue",Arial,sans-serif;color:var(--ink);background:var(--bg);line-height:1.8;font-size:15.5px}
+a{color:var(--primary);text-decoration:none}
+a:hover{text-decoration:underline}
+.wrap{max-width:900px;margin:0 auto;padding:0 20px}
+
+/* 头部 */
+header{background:linear-gradient(135deg,#1e3a8a,#2563eb);color:#fff;padding:56px 0 48px}
+.profile{display:flex;align-items:center;gap:26px;flex-wrap:wrap}
+.avatar{width:96px;height:96px;border-radius:50%;background:rgba(255,255,255,.18);border:2px solid rgba(255,255,255,.6);display:flex;align-items:center;justify-content:center;font-size:36px;font-weight:700;letter-spacing:2px}
+.intro h1{font-size:30px;letter-spacing:2px;margin-bottom:4px}
+.intro .title{font-size:16px;color:#c7d7f5;letter-spacing:1px}
+.contact{display:flex;flex-wrap:wrap;gap:8px 22px;margin-top:16px;font-size:14px;color:#dbe7fb}
+.badges{display:flex;gap:10px;margin-top:14px;flex-wrap:wrap}
+.badge{background:rgba(255,255,255,.14);border:1px solid rgba(255,255,255,.3);padding:4px 14px;border-radius:16px;font-size:13px}
+
+/* 主体 */
+main{padding:36px 0 60px}
+section{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:28px 30px;margin-bottom:22px;box-shadow:0 2px 10px rgba(30,60,120,.05)}
+h2{font-size:19px;color:var(--primary-d);margin-bottom:18px;display:flex;align-items:center;gap:10px;letter-spacing:1px}
+h2::before{content:"";width:5px;height:20px;border-radius:3px;background:var(--primary)}
+.item{padding:14px 0;border-bottom:1px dashed var(--line)}
+.item:last-child{border-bottom:none;padding-bottom:0}
+.item-head{display:flex;justify-content:space-between;flex-wrap:wrap;gap:6px}
+.item-head h3{font-size:16.5px}
+.item-head .time{color:var(--grey);font-size:13.5px;white-space:nowrap}
+.item .org{color:var(--primary);font-size:14px;margin:2px 0 6px}
+.item ul{padding-left:20px;color:#374151}
+.item li{margin:3px 0;font-size:14.6px}
+.skill-tags{display:flex;flex-wrap:wrap;gap:10px}
+.skill-tags .t{background:#eef2ff;color:var(--primary-d);padding:6px 16px;border-radius:18px;font-size:14px}
+.hint{background:#fffbeb;border:1px solid #fde68a;color:#92400e;font-size:13px;padding:10px 16px;border-radius:8px;margin-bottom:22px}
+
+/* 联系 */
+.ct-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}
+.ct{background:var(--bg);border:1px solid var(--line);border-radius:8px;padding:14px 18px;font-size:14.5px}
+.ct b{display:block;font-size:13px;color:var(--grey);font-weight:400;margin-bottom:2px}
+
+footer{text-align:center;color:var(--grey);font-size:13px;padding:20px 0 34px}
+
+/* 响应式 */
+@media (max-width:640px){
+  header{padding:44px 0 36px}
+  .profile{flex-direction:column;text-align:center;align-items:center}
+  .contact{justify-content:center}
+  .badges{justify-content:center}
+  .intro h1{font-size:24px}
+  section{padding:22px 18px}
+  .item-head{flex-direction:column}
+  .ct-grid{grid-template-columns:1fr}
+}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap">
+    <div class="profile">
+      <div class="avatar">张明</div>
+      <div class="intro">
+        <h1>张 明</h1>
+        <div class="title">求职意向：产品经理（示例占位，请替换）</div>
+        <div class="contact">
+          <span>📱 138-0000-0000</span>
+          <span>✉️ zhangming@example.com</span>
+          <span>📍 大连市</span>
+          <span>🔗 github.com/aheelv</span>
+        </div>
+        <div class="badges">
+          <span class="badge">🎓 硕士研究生</span>
+          <span class="badge">💼 5年经验</span>
+          <span class="badge">🗓️ 随时到岗</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <div class="hint">📝 本页内容均为占位示例，编辑仓库中的 index.html 即可替换为真实信息，推送后线上页面自动同步更新。</div>
+
+  <section>
+    <h2>个人简介</h2>
+    <p style="color:#374151;font-size:14.8px">5 年互联网产品经验，主导过 0-1 产品孵化与千万级 DAU 产品迭代，擅长数据驱动的产品决策与跨团队协作。对 AI 应用产品有深入实践，曾带队完成智能客服与推荐系统相关项目。（示例占位，请替换）</p>
+  </section>
+
+  <section>
+    <h2>教育背景</h2>
+    <div class="item">
+      <div class="item-head"><h3>某某大学 · 管理学硕士</h3><span class="time">2018.09 – 2021.06</span></div>
+      <div class="org">专业：管理科学与工程（GPA 3.8/4.0，示例占位）</div>
+      <ul><li>研究方向：数据智能与决策分析；获校级一等奖学金两次</li></ul>
+    </div>
+    <div class="item">
+      <div class="item-head"><h3>某某大学 · 管理学学士</h3><span class="time">2014.09 – 2018.06</span></div>
+      <div class="org">专业：信息管理与信息系统</div>
+      <ul><li>校级优秀毕业生；全国大学生数学建模竞赛省级二等奖</li></ul>
+    </div>
+  </section>
+
+  <section>
+    <h2>工作经历</h2>
+    <div class="item">
+      <div class="item-head"><h3>某科技有限公司 · 高级产品经理</h3><span class="time">2023.07 – 至今</span></div>
+      <div class="org">电商事业部 · 智能产品线</div>
+      <ul>
+        <li>主导智能推荐系统产品规划，上线后点击率提升 23%（示例占位数据）</li>
+        <li>搭建 A/B 实验体系与数据看板，将需求上线周期缩短 30%</li>
+        <li>带领 3 人产品小组，协同研发/算法/运营共 20 余人</li>
+      </ul>
+    </div>
+    <div class="item">
+      <div class="item-head"><h3>某信息技术公司 · 产品经理</h3><span class="time">2021.07 – 2023.06</span></div>
+      <div class="org">企业服务部</div>
+      <ul>
+        <li>负责 SaaS 工单系统从 0 到 1，一年内签约企业客户 200+ 家</li>
+        <li>建立用户反馈闭环机制，NPS 由 32 提升至 51（示例占位数据）</li>
+      </ul>
+    </div>
+  </section>
+
+  <section>
+    <h2>项目经验</h2>
+    <div class="item">
+      <div class="item-head"><h3>智能客服知识库平台（0-1 孵化）</h3><span class="time">2024.03 – 2024.12</span></div>
+      <div class="org">角色：产品负责人 ｜ 团队规模：12 人</div>
+      <ul>
+        <li>调研 30+ 家客户，输出 PRD 与原型，推动 LLM 问答引擎落地</li>
+        <li>上线后人工客服工单量下降 40%，客户续约率提升 15%（示例占位）</li>
+      </ul>
+    </div>
+    <div class="item">
+      <div class="item-head"><h3>数据可视化运营驾驶舱</h3><span class="time">2022.05 – 2022.11</span></div>
+      <div class="org">角色：项目经理</div>
+      <ul>
+        <li>整合 8 个业务系统数据源，实现核心指标实时监控与异动预警</li>
+        <li>获公司年度最佳创新项目奖（示例占位）</li>
+      </ul>
+    </div>
+  </section>
+
+  <section>
+    <h2>专业技能</h2>
+    <div class="skill-tags">
+      <span class="t">产品设计</span><span class="t">Axure / Figma</span><span class="t">SQL</span>
+      <span class="t">数据分析</span><span class="t">Python</span><span class="t">项目管理</span>
+      <span class="t">英语 CET-6</span><span class="t">AI 产品实践</span>
+    </div>
+  </section>
+
+  <section>
+    <h2>联系方式</h2>
+    <div class="ct-grid">
+      <div class="ct"><b>电话</b>138-0000-0000（示例占位）</div>
+      <div class="ct"><b>邮箱</b>zhangming@example.com</div>
+      <div class="ct"><b>微信</b>zhangming_weixin（示例占位）</div>
+      <div class="ct"><b>GitHub</b><a href="https://github.com/aheelv">github.com/aheelv</a></div>
+    </div>
+  </section>
+</main>
+
+<footer>© 2026 张明 · 基于 GitHub Pages 托管 · 编辑仓库 index.html 即可更新本页</footer>
+</body>
+</html>
