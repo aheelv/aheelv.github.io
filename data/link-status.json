@@ -1,0 +1,310 @@
+[
+  {
+    "url": "https://aheelv.github.io/hello-world/course-group/",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/teach/",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/op/",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/agents/",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/agents/simplex-courseware.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/agents/duality-courseware.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/agents/transportation-courseware.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/agents/simplex-method-demo.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/agents/multi-agent-demo.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/agents/devops-lifecycle.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/research/",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/research/research_landscape_se_ai_harness.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/research/sci-journal-guide.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/research/submission_guides.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/research/submission_outlines.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/research/ai-adoption-archive.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/se-ai-agent/",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/se-ai-agent/roadmap.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/se-ai-agent/handbook.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/nav/",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/title-review/",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/title-review/%E8%81%8C%E7%A7%B0%E8%AF%84%E5%AE%A1%E5%85%A8%E6%99%AF%E8%B7%AF%E7%BA%BF%E5%9B%BE.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/title-review/%E5%89%AF%E9%AB%98%E7%BA%A7%E8%81%8C%E7%A7%B0%E8%BD%AC%E8%AF%84%E6%9D%A1%E4%BB%B6%E6%A0%B8%E6%9F%A5%E8%A1%A8.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/title-review/2026%E5%B9%B4%E7%94%B3%E6%8A%A5%E7%BE%A4%E9%80%9A%E7%9F%A5.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/student-development/",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/student-development/%E8%AF%BE%E9%A2%98%E8%AF%84%E4%BC%B0%E6%8A%A5%E5%91%8A_%E6%95%B0%E6%8D%AE%E9%A9%B1%E5%8A%A8%E7%9A%84%E5%AD%A6%E7%94%9F%E5%9F%B9%E5%85%BB%E6%A8%A1%E5%BC%8F%E5%88%9B%E6%96%B0%E6%8E%A2%E7%B4%A2.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/student-development/%E8%AF%BE%E9%A2%98%E9%A2%98%E7%9B%AE%E4%BC%98%E5%8C%96%E6%96%B9%E6%A1%88_%E7%BA%B3%E5%85%A5AI%E5%9B%A0%E5%AD%90%E4%B8%8EHarness%E8%A7%86%E8%A7%92.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/student-development/%E8%AE%BA%E6%96%87%E5%86%99%E4%BD%9C%E8%A7%84%E5%88%92%E4%B8%8E%E6%9C%9F%E5%88%8A%E6%8A%95%E7%A8%BF%E9%80%89%E5%9E%8B%E6%96%B9%E6%A1%88.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/student-development/%E8%AE%BA%E6%96%87%E6%95%B0%E6%8D%AE%E8%8E%B7%E5%8F%96%E8%AF%B4%E6%98%8E%E4%B8%8E%E6%A0%B8%E5%AF%B9%E6%B8%85%E5%8D%95.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/student-development/%E6%95%B0%E6%8D%AE%E4%B8%8E%E8%AE%BA%E6%96%87%E5%8C%B9%E9%85%8D%E5%BA%A6%E6%A0%B8%E9%AA%8C%E6%8A%A5%E5%91%8A.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/student-development/EAIT%E6%8A%95%E7%A8%BF%E5%90%88%E8%A7%84%E6%A3%80%E6%9F%A5%E4%B8%8E%E6%93%8D%E4%BD%9C%E6%8C%87%E5%8D%97.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/summer-learning/",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/summer-learning/agent-learning-guide.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/summer-learning/ai-learning-roadmap.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/book-to-skill/",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/book-to-skill/AI%E4%B8%8E%E7%AE%A1%E7%90%86%E7%A7%91%E5%AD%A6_2026%E4%B8%8B%E5%8D%8A%E5%B9%B4%E6%8A%95%E7%A8%BF%E6%8C%87%E5%8D%97.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/associate-professor/",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/associate-professor/%E9%AB%98%E7%BA%A7%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%BD%AC%E8%AF%84%E5%89%AF%E6%95%99%E6%8E%88-%E8%B5%84%E6%A0%BC%E4%B8%8E%E8%B5%8B%E5%88%86%E5%88%86%E6%9E%90.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/library/",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/library/naval/",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/library/books/antifragile/index.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/library/books/asking-the-right-questions/index.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/library/books/buffett-letters/index.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/library/books/influence/index.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/library/books/mindset/index.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/library/books/naval-almanack/index.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/library/books/noise/index.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/library/books/poor-charlies-almanack/index.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/library/books/principles/index.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/library/books/superforecasting/index.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/library/books/think-and-grow-rich/index.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/library/books/thinking-in-bets/index.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/library/books/_template/index.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/ai-paper-submission/index.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/ai-paper-submission/review-guide.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/ai-paper-submission/review-guide.md",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/ai-paper-submission/submission-plan.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/ai-paper-submission/submission-plan.md",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/ai-paper-submission/cost-guide.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/ai-paper-submission/cost-guide.md",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/ai-reading-notes/",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/stat/",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/legacy-index.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/research-writing/",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/research-writing/01-topic.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/research-writing/02-design.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/research-writing/03-writing.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/research-writing/04-submission.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/research-writing/05-review.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/research-writing/06-strategy.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/research-writing/07-integrity.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/research-writing/resources.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/research-writing/translations.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/research-writing/glossary.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/research-writing/maintain.html",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/gongfa-archive/",
+    "status": 200
+  },
+  {
+    "url": "https://aheelv.github.io/hello-world/book/",
+    "status": 200
+  }
+]
