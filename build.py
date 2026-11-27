@@ -140,8 +140,8 @@ REPOS = [
 # ---------------------------------------------------------------------------
 ISSUES = [
     {"name": "站点根地址", "url": f"{PAGES}/", "repo": f"{GH}/aheelv.github.io",
-     "reason": "仓库于 2026-11-07 被设为私有，GitHub Pages 自动停用，当前返回 HTTP 404。",
-     "action": "本页即为新入口；将 aheelv.github.io 仓库设为 Public 后根地址即可恢复。",
+     "reason": "仓库已恢复 Public，但 GitHub Pages 功能尚未启用（has_pages = false），当前仍返回 HTTP 404。",
+     "action": "到仓库 Settings → Pages → Build and deployment，Source 选 Deploy from a branch，Branch 选 main / (root) 并保存，即可发布本页。",
      "code": "404"},
     {"name": "JavaMicroservice 站点", "url": f"{PAGES}/JavaMicroservicewithSpringXVMHM/",
      "repo": f"{GH}/JavaMicroservicewithSpringXVMHM",
@@ -460,7 +460,7 @@ def build():
     A('''  </div>
   <div class="notice">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="10"/><path d="M12 8v5M12 16h.01"/></svg>
-    <p><b>关于根地址：</b>本页面已写入 <code>aheelv/aheelv.github.io</code> 仓库。由于该仓库当前为 Private，GitHub Pages 不会发布；将仓库可见性改为 Public 后，<code>https://aheelv.github.io/</code> 即会显示此页。</p>
+    <p><b>关于根地址：</b>本页面已写入 <code>aheelv/aheelv.github.io</code> 仓库并已设为 Public。但 GitHub Pages 功能尚未启用（Settings → Pages → Source 选择 Deploy from a branch → main / (root)），启用后 <code>https://aheelv.github.io/</code> 即会显示此页。</p>
   </div>
 </section>
 

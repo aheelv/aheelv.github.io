@@ -56,6 +56,12 @@
 
 ## 重要说明
 
-`aheelv/aheelv.github.io` 仓库当前为 **Private**。GitHub 对私有仓库自动停用 Pages，因此根地址 `https://aheelv.github.io/` 返回 404。
-要让新主页上线，需要在 GitHub 仓库设置中将该仓库改为 **Public**（Settings → General → Danger Zone → Change visibility）。
-仓库可见性无法通过 API 修改，需账号所有者手动操作。
+`aheelv/aheelv.github.io` 仓库已恢复 **Public**（2026-11-27）。但 GitHub Pages 功能尚未启用（`has_pages: false`），因此根地址 `https://aheelv.github.io/` 仍返回 404。
+
+要让新主页上线，还需在仓库设置中启用 Pages：
+1. 打开 Settings → **Pages**
+2. Build and deployment → Source 选择 **Deploy from a branch**
+3. Branch 选择 **main** / **(root)**，点击 Save
+4. 等待约 1 分钟构建，根地址即可显示本页
+
+Pages 启用与仓库可见性均无法通过 GitHub API 修改，需账号所有者在网页端手动操作。
